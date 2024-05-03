@@ -1,5 +1,14 @@
 # fff (*Fucking Fast File-Manager*)
 
+Modified version to make use of my tui library https://github.com/aeknt/buffermaker to the interface interestinger and not so fucking fast anymore.
+
+### Progress
+- [x] Input handling
+- [ ] Redraw using BufferMaker own redrawing system
+- [ ] Add more features??? (rather try not to cry from whatever mess BufferMaker is)
+
+Below is outdated original readme:
+
 <a href="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp" target="_blank"><img src="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp.svg" alt="img" height="210px" align="right"/></a>
 
 A simple file manager written in `bash`.
